@@ -1,0 +1,6 @@
+@inproceedings{feng2012lexical,
+  title={Lexical story co-segmentation of Chinese broadcast news},
+  author={Feng, Wei and Nie, Xuecheng and Wan, Liang and Xie, Lei and Jiang, Jianmin},
+  booktitle={INTERSPEECH},
+  year={2012}
+}

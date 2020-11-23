@@ -1,0 +1,6 @@
+@inproceedings{xiao2016live,
+  title={A live face swapper},
+  author={Xiao, Shengtao and Liu, Luoqi and Nie, Xuecheng and Feng, Jiashi and Kassim, Ashraf A and Yan, Shuicheng},
+  booktitle={ACM MM},
+  year={2016}
+}

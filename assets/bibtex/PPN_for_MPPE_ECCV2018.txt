@@ -1,0 +1,6 @@
+@inproceedings{nie2018ppn,
+  title={Pose Partition Networks for Multi-Person Pose Estimation},
+  author={Nie, Xuecheng and Feng, Jiashi and Xing, Junliang and Yan, Shuicheng},
+  booktitle={ECCV},
+  year={2018}
+}

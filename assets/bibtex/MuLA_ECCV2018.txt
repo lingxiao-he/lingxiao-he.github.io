@@ -1,0 +1,6 @@
+@inproceedings{nie2018mula,
+  title={Mutual Learning to Adapt for Joint Human Parsing and Pose Estimation},
+  author={Nie, Xuecheng and Feng, Jiashi and Yan, Shuicheng},
+  booktitle={ECCV},
+  year={2018}
+}
