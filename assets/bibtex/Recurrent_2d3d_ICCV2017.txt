@@ -1,6 +1,0 @@
-@inproceedings{xiao2017recurrent,
-  title={Recurrent 3D-2D Dual Learning for Large-pose Facial Landmark Detection},
-  author={Xiao, Shengtao and Feng, Jiashi and Liu, Luoqi and Nie, Xuecheng and Wang, Wei and Yan, Shuicheng and Kassim, Ashraf},
-  booktitle={ICCV},
-  year={2017}
-}

@@ -1,6 +1,0 @@
-@inproceedings{dai20140,
-  title={L0 co-intrinsic images decomposition},
-  author={Dai, Haipeng and Feng, Wei and Wan, Liang and Nie, Xuecheng},
-  booktitle={ICME},
-  year={2014}
-}

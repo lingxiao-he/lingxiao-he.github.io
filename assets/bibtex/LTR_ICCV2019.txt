@@ -1,6 +1,0 @@
-@inproceedings{tan2019lrt,
-  title={Learning to Rank Proposals for Object Detection},
-  author={Tan, Zhiyu and Nie, Xuecheng and Qian, Qi and Li, Nan and Li, Hao},
-  booktitle={ICCV},
-  year={2019}
-}

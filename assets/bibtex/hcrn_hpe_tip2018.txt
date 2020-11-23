@@ -1,6 +1,0 @@
-@article{nie2018hcrn,
-  title={Hierarchical Contextual Refinement Networks for Human Pose Estimation},
-  author={Nie, Xuecheng and Feng, Jiashi and Xing, Junliang and Xiao, Shengtao and Yan, Shuicheng},
-  journal={IEEE Transactions on Image Processing},
-  year={2018}
-}

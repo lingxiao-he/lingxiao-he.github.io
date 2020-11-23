@@ -1,6 +1,0 @@
-@inproceedings{nie2013measuring,
-  title={Measuring semantic similarity by contextualword connections in chinese news story segmentation},
-  author={Nie, Xuecheng and Feng, Wei and Wan, Liang and Xie, Lei},
-  booktitle={ICASSP},
-  year={2013}
-}

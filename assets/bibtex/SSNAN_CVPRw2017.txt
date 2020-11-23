@@ -1,6 +1,0 @@
-@inproceedings{zhao2017self,
-  title={Self-Supervised Neural Aggregation Networks for Human Parsing},
-  author={Zhao, Jian and Li, Jianshu and Nie, Xuecheng and Zhao, Fang and Chen, Yunpeng and Wang, Zhecan and Feng, Jiashi and Yan, Shuicheng},
-  booktitle={CVPR Workshops},
-  year={2017}
-}

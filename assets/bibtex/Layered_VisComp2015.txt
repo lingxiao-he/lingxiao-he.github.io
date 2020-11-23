@@ -1,9 +1,0 @@
-@article{zheng2015layered,
-  title={Layered modeling and generation of Pollock’s drip style},
-  author={Zheng, Yan and Nie, Xuecheng and Meng, Zhaopeng and Feng, Wei and Zhang, Kang},
-  journal={The Visual Computer},
-  volume={31},
-  number={5},
-  pages={589-600},
-  year={2015}
-}

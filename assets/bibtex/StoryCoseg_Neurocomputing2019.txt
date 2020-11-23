@@ -1,7 +1,0 @@
-@article{feng2019storycoseg,
-  title={Story Co-Segmentation of Chinese Broadcast News Using Weakly-Supervised Semantic Similarity},
-  author={Feng, Wei and Nie, Xuecheng and Zhang, Yujun and Liu, Zhi-Qiang and Dang, Jianwu},
-  journal={Neurocomputing},
-  year={2019},
-  publisher={Elsevier}
-}
