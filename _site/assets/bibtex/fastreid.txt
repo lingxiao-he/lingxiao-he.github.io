@@ -1,0 +1,6 @@
+@article{he2020fastreid,
+  title={FastReID: a pytorch toolbox for general instance re-identification},
+  author={He, Lingxiao and Liao, Xingyu and Liu, Wu and Liu, Xinchen and Cheng, Peng and Mei, Tao},
+  journal={arXiv preprint arXiv:2006.02631},
+  year={2020}
+}
