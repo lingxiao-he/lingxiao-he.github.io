@@ -1,0 +1,6 @@
+@inproceedings{nie2018human,
+  title={Human Pose Estimation With Parsing Induced Learner},
+  author={Nie, Xuecheng and Feng, Jiashi and Zuo, Yiming and Yan, Shuicheng},
+  booktitle={CVPR},
+  year={2018}
+}

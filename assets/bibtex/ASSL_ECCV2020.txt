@@ -1,0 +1,6 @@
+@inproceedings{si2020adversarial,
+  title={Adversarial Self-Supervised Learning for Semi-Supervised 3D Action Recognition},
+  author={Si, Chenyang and Nie, Xuecheng and Wang, Wei and Wang, Liang and Tan, Tieniu and Feng, Jiashi},
+  booktitle={ECCV},
+  year={2020}
+}

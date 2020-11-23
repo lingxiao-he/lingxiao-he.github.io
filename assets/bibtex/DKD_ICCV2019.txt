@@ -1,0 +1,6 @@
+@inproceedings{nie2019dkd,
+  title={Mutual Learning to Adapt for Joint Human Parsing and Pose Estimation},
+  author={Nie, Xuecheng and Li, Yuncheng and Luo, Linjie and Zhang, Ning and Feng, Jiashi},
+  booktitle={ICCV},
+  year={2019}
+}
