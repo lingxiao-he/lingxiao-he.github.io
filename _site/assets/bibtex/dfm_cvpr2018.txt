@@ -1,0 +1,6 @@
+@inproceedings{he2018dynamic,
+  title={Dynamic feature learning for partial face recognition},
+  author={He, Lingxiao and Li, Haiqing and Zhang, Qi and Sun, Zhenan},
+  booktitle={IEEE conference on computer vision and pattern recognition (CVPR)},
+  year={2018}
+}

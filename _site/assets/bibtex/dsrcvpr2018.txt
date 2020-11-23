@@ -1,0 +1,6 @@
+@inproceedings{he2018deep,
+  title={Deep spatial feature reconstruction for partial person re-identification: Alignment-free approach},
+  author={He, Lingxiao and Liang, Jian and Li, Haiqing and Sun, Zhenan},
+  booktitle={IEEE Conference on Computer Vision and Pattern Recognition (CVPR)},
+  year={2018}
+}

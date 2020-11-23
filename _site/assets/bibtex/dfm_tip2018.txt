@@ -1,0 +1,9 @@
+@article{he2018dynamic,
+  title={Dynamic feature matching for partial face recognition},
+  author={He, Lingxiao and Li, Haiqing and Zhang, Qi and Sun, Zhenan},
+  journal={IEEE Transactions on Image Processing (T-IP)},
+  volume={28},
+  number={2},
+  pages={791--802},
+  year={2018}
+}

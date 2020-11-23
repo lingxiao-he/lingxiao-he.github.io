@@ -1,0 +1,6 @@
+@article{tu20203d,
+  title={3D Face Reconstruction from A Single Image Assisted by 2D Face Images in the Wild},
+  author={Tu, Xiaoguang and Zhao, Jian and Xie, Mei and Jiang, Zihang and Balamurugan, Akshaya and Luo, Yao and Zhao, Yang and He, Lingxiao and Ma, Zheng and Feng, Jiashi},
+  journal={IEEE Transactions on Multimedia (T-MM)},
+  year={2020},
+}
