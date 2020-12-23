@@ -1,6 +1,0 @@
-@inproceedings{he2019foreground,
-  title={Foreground-aware pyramid reconstruction for alignment-free occluded person re-identification},
-  author={He, Lingxiao and Wang, Yinggang and Liu, Wu and Zhao, He and Sun, Zhenan and Feng, Jiashi},
-  booktitle={IEEE International Conference on Computer Vision (ICCV)},
-  year={2019}
-}
